@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with diligent individuals who will help expand and improve my projects and repositories with open-source code.
 - 🤔 I’m looking for help with finding more resources to do further artificial intelligence applications.
 - 📫 How to reach me: Connect with me on [linkedn](https://www.linkedin.com/in/nezahat-korkmaz/)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezahatkorkmaz&show_icons=true&theme=transparent)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
