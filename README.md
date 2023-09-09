@@ -1,7 +1,7 @@
 ### Ambitious Compuer Engineering & Science student from Turkiye
 
-- 🔭 I’m currently working on projects in the fields of AI, ML, and autonomous vehicles.
-- 🌱 I’m currently learning TensorFlow.
+- 🔭 I’m currently working on projects in the fields of AI, ML and autonomous vehicles.
+- 🌱 I’m currently learning Building Deep Learning Models with TensorFlow by IBM.
 - 👯 I’m looking to collaborate with diligent individuals who will help expand and improve my projects and repositories with open-source code.
 - 🤔 I’m looking for help with finding more resources to do further artificial intelligence applications.
 - 📫 How to reach me: Connect with me on [linkedn](https://www.linkedin.com/in/nezahat-korkmaz/)
