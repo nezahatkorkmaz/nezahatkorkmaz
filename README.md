@@ -13,15 +13,19 @@ I'm a 22-year-old senior Computer Engineering student at Gazi University, specia
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezahatkorkmaz&show_icons=true&theme=transparent)
 
+🏆 Achievements & Projects
+
+- 🎓 Senior Computer Engineering student at Gazi University
+- 🔬 NLP research with TÜBİTAK fellowship
+- 🏥 Developing Visual Question Answering (VQA) models for radiology images
+- 🌊 Building computer vision models for UUV systems in global competitions
+- 📝 Sharing research in Turkish on Medium and Kaggle
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezahatkorkmaz&layout=compact)
