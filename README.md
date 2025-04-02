@@ -3,11 +3,11 @@
 I'm a 22-year-old senior Computer Engineering student at Gazi University, specializing in AI/ML, focusing on NLP, Computer Vision, and object detection. As a TÜBİTAK fellow, I conduct NLP research and develop VQA models for radiology images while also building computer vision models for UUV systems in global competitions. I enjoy sharing research on Medium & Kaggle in Turkish 🇹🇷. Beyond AI, I'm a licensed chess player ♟️ and an athletics runner 🏃‍♂️.
 🔭 Areas of Expertise
 
-🧠 Natural Language Processing (NLP)
-👁️ Computer Vision
-🎯 Object Detection
-🏥 Medical Image Analysis (Radiology VQA Models)
-🌊 Computer Vision for Unmanned Underwater Vehicles
+- 🧠 Natural Language Processing (NLP)
+- 👁️ Computer Vision
+- 🎯 Object Detection
+- 🏥 Medical Image Analysis (Radiology VQA Models)
+- 🌊 Computer Vision for Unmanned Underwater Vehicles
 
 - 📫 How to reach me: Connect with me on [linkedn](https://www.linkedin.com/in/nezahat-korkmaz/)
   
